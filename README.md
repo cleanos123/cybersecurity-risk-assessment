@@ -58,7 +58,7 @@ Documented Windows 11 hardening activities including:
 
 ## Project Files
 
-- `CyberShield360_Report.pdf`
+- `CyberShield-360 Technical Security Assessment Report.pdf`
 - `CyberShield_Presentation.pdf`
 
 ## Note
